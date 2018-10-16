@@ -1,6 +1,6 @@
 import React from 'react';
 import User from './User.jsx';
-console.log('hello-world-lol');
+
 export default ({ users }) => (
   <div className="user-list">
     <p className="lead">
