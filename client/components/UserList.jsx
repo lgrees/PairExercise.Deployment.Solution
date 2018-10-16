@@ -5,7 +5,7 @@ export default ({ users }) => (
   <div className="user-list">
     <p className="lead">
       Here's a list of {users.length} completely fictitious people with some new
-      text here:
+      text here and some more stuff too:
     </p>
 
     <table className="table">
